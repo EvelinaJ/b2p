@@ -65,7 +65,7 @@ var config = {
             //description: 'no text',
             location: {
                 center: [29.31543, -2.01033],
-                zoom: 8.1,
+                zoom: 8.2,
                 pitch: 0.00,
                 bearing: 4.00
             },
@@ -129,7 +129,7 @@ var config = {
             id: 'story-conclusion',
             title: 'Now what?',
             //image: './path/to/image/source.png',
-            description: 'A simple footbridge can provide access to work and healthcare for thousands of people. Impact studies have shown that, in the rural isolated areas where B2P intervened, there has been a 25% increase in labour market income. It could be the way out of poverty for these communities.<br><br><big><b>If you can, donate at <a href="bridgestoprosperity.org/donate">B2P/donate</a></big>.</big>',
+            description: 'A simple footbridge can provide access to work and healthcare for thousands of people. Impact studies have shown that, in the rural isolated areas where B2P intervened, there has been a 25% increase in labour market income. It could be the way out of poverty for these communities.<br><br><big><b>If you can, donate at <a href="https://www.bridgestoprosperity.org/donate">B2P/donate</a></big>.</big>',
             location: {
                 center: [29.72672, -1.98711],
                 zoom: 2.8,
