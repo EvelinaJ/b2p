@@ -60,7 +60,7 @@ var config = {
         {
             id: 'story-intro-3',
             //title: 'People directly served at each site',
-            image: 'images/b2pbars.svg',
+            image: 'b2pbars.svg',
             //image: 'images/b2pbars.jpg',
             //description: 'no text',
             location: {
@@ -85,7 +85,7 @@ var config = {
         {
             id: 'bridge-1-2',
             title: 'Muregeya and Rwamamara bridges',
-            image: 'images/Rwanda_Suspended_Moto on Bridge.png',
+            image: 'Rwanda_Suspended_Moto on Bridge.png',
             description: 'The Muregeya and Rwamamara bridges, constructed in the Western province of Rwanda in 2013 and 2019, serve more than 14,000 people. People who use them travel from Gasiza, Isure, Gaseke and and 59 other villlages. For most of the travelers, their livelihood—buying and selling goods, farming, wage labour—depends on these bridges.',
             location: {
                 center: [29.25304, -1.88943],
@@ -99,7 +99,7 @@ var config = {
         {
             id: 'bridge-3',
             title: 'Kanyarira bridge',
-            image: 'images/Rwanda_Suspended_Children Crossing 3 .jpg',
+            image: 'Rwanda_Suspended_Children Crossing 3 .jpg',
             description: "The Kanyarira bridge was built in Rwanda's Southern Province in 2016. It serves at least 8,000 people in 60 neighbouring villages who mainly travel to buy goods and to visit friends and family.",
             location: {
                 center: [29.705778, -2.113750],
@@ -113,7 +113,7 @@ var config = {
         {
             id: 'bridge-4-5-6',
             title: 'Gahororo, Ruharazi and Rwimvubu bridges',
-            image: 'images/Rwanda_Suspension_Side View with Child Crossing.jpg',
+            image: 'Rwanda_Suspension_Side View with Child Crossing.jpg',
             description: 'Three more bridges in the very South of Rwanda help nearly 16,000 individuals to safely travel for their daily business. Since their construction in 2017 and 2019, they cover Bunazi, Muhembe, Mashya and 100 other villages. ',
             location: {
                 center: [29.649033, -2.621482],
