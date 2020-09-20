@@ -60,7 +60,7 @@ var config = {
         {
             id: 'story-intro-3',
             //title: 'People directly served at each site',
-            image: 'b2pbars.svg',
+            image: 'b2P_scrolly/b2pbars.svg',
             //image: 'images/b2pbars.jpg',
             //description: 'no text',
             location: {
